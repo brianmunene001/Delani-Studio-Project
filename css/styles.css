@@ -1,4 +1,4 @@
-.three{
+.first{
     background-image: url("../images/h_img.jpg");
     background-size: cover;
     height: 700px;
@@ -8,29 +8,33 @@
     line-height: 30px;
     margin-bottom: 0;
 }
-.three h1{
+.first h1{
     font-size: 50px;
     color: white;
     line-height: 90px;
 }
-
-
-
+.first p{
+    font-size: 15px;
+    color:white;
+}
+.mouseimg{
+    padding-top:200px;
+}
 #logo{
     display: flex;
     align-items: center;
     justify-content: center;
 }
-#delani{
+#studio{
+    display: flex;
     justify-content: center;
-    color: aliceblue;
 }
 .about{
-    height: 500px;
+    height: 300px;
 }
- .about h2{
+.about h2{
     text-align: center;
-    padding-top: 300px;
+    padding-top: 30px;
     font-size: 30px;
     font-weight: bolder;
 }
@@ -43,10 +47,8 @@
     font-weight: bold;
 }
 .services{
-    padding-top: 100px;
     background-image: url(../images/s_image.jpg);
     height: 450px;
-    width: 400;
     text-align: center;
     color: white;
     font-family: 'Nunito', sans-serif;
@@ -58,37 +60,37 @@
 .services p{
     font-size: 20px;
 }
-.ourwork{
-    background-size: 100px;
+.work{
+    background-size: 50px;
     
 }
-.ourwork h1{
+.work h1{
     text-align: center !important;
     padding-top:30px;
     font-weight: bolder;
     font-size: 30px;
 }
-.ourwork h2{
+.work h2{
     font-size: 20px;
 }
-.ourwork p{
+.work p{
     display: none;
 }
-.ourwork img,p{
+.work img,p{
     cursor: pointer;
 }
-.ourwork .row{
+.work .row{
     display: flex;
     justify-content: space-between;
     margin-right: 100px;
     margin-left: 100px;
     margin-top: 100px;
 }
-#head2{
-    margin-right: 15px;
-}
 #one{
     margin-left:15px;
+}
+#head2{
+    margin-right: 15px;
 }
 #head3{
     margin-right: 10px
@@ -109,16 +111,16 @@
     display: block;
 }
 .ip p{
-    font-family: 'Farro', sans-serif;
-    text-align: center;
-    display: none;
-    position: absolute;
-    font-size: 40px;
-    padding-top: 80px;
-    padding-left: 40px;
-  
-  }
-  .contact{
+  font-family: 'Farro', sans-serif;
+  text-align: center;
+  display: none;
+  position: absolute;
+  font-size: 40px;
+  padding-top: 80px;
+  padding-left: 40px;
+
+}
+.contact{
     background-image: url("../images/c_image.jpg");
     height:500px;
     margin-top: 100px;
@@ -130,15 +132,14 @@
     text-align: center;
     padding-top: 60px;
     padding-bottom: 0;
-    color:black;
-    background-color:whitesmoke;
-/* }
+    color:white;
+}
 .contact input,textarea{
     background: none;
    
 }
-:-ms-input-placeholder { /* IE 10+ */
-    /* color: pink; */
+::placeholder{
+    color: white;
 }
 .contact textarea{
     margin-left: 300px;
@@ -155,11 +156,9 @@ input{
 }
 #name{
     width: 300px;
-} 
- button{
+}
+button{
     position: relative;
     top:40px;
     right:400px;
-} ::-webkit-input-placeholder{
-    color: black;
 }

@@ -99,3 +99,9 @@
     font-weight: bolder;
     margin-top: 50px;
 }
+.ip .row{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 100px;
+    margin-left:100px;
+}

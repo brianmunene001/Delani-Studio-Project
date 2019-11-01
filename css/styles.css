@@ -43,6 +43,7 @@
     font-weight: bold;
 }
 .services{
+    padding-top: 100px;
     background-image: url(../images/s_image.jpg);
     height: 450px;
     width: 400;
@@ -85,4 +86,7 @@
 }
 #head2{
     margin-right: 15px;
+}
+#one{
+    margin-left:15px;
 }

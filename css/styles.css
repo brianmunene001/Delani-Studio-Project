@@ -132,15 +132,15 @@
     text-align: center;
     padding-top: 60px;
     padding-bottom: 0;
-    color:white;
+    color:black;
 }
 .contact input,textarea{
     background: none;
    
 }
-::placeholder{
+/* ::placeholder{
     color: white;
-}
+} */
 .contact textarea{
     margin-left: 300px;
     margin-top: 20px;
@@ -183,3 +183,9 @@ button{
         height: 700px;
     }
 }
+/* .contact h2{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 0;
+    color:black;
+} */

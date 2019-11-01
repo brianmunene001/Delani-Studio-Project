@@ -132,3 +132,7 @@
     padding-bottom: 0;
     color:white;
 }
+.contact input,textarea{
+    background: none;
+   
+}

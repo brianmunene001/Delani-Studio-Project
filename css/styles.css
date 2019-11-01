@@ -162,3 +162,11 @@ button{
     top:40px;
     right:400px;
 }
+.media{
+    margin-top: 70px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-content: unset;
+
+}

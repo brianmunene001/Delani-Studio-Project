@@ -155,3 +155,8 @@ input{
 #name{
     width: 300px;
 }
+button{
+    position: relative;
+    top:40px;
+    right:400px;
+}

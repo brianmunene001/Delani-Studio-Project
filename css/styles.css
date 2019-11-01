@@ -170,3 +170,10 @@ button{
     align-content: unset;
 
 }
+.footer{
+    text-align: center;
+    margin-top: 10px;
+}
+.footer p{
+    line-height: 12px;
+}

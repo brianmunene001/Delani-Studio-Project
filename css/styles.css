@@ -59,7 +59,7 @@
     font-size: 20px;
 }
 .ourwork{
-    background-size: 50px;
+    background-size: 100px;
     
 }
 .ourwork h1{
@@ -130,14 +130,15 @@
     text-align: center;
     padding-top: 60px;
     padding-bottom: 0;
-    color:white;
-}
+    color:black;
+    background-color:whitesmoke;
+/* }
 .contact input,textarea{
     background: none;
    
 }
-::placeholder{
-    color: white;
+:-ms-input-placeholder { /* IE 10+ */
+    /* color: pink; */
 }
 .contact textarea{
     margin-left: 300px;
@@ -154,9 +155,11 @@ input{
 }
 #name{
     width: 300px;
-}
-button{
+} 
+ button{
     position: relative;
     top:40px;
     right:400px;
+} ::-webkit-input-placeholder{
+    color: black;
 }

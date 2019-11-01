@@ -147,3 +147,8 @@ input{
     margin-left:300px;
     margin-top: 40px;
 }
+#email{
+    position: relative;
+    right:200px;
+    width: 300px;
+}

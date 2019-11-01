@@ -178,11 +178,8 @@ button{
     line-height: 12px;
 }
 
-@media screen and (max-width:800px){
-    .first{
-        height:850px;
-    }
-    .about{
-        height: 500px;
+@media screen and (max-width:300px){
+    .contact{
+        height: 700px;
     }
 }

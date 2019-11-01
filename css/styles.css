@@ -108,3 +108,13 @@
 .ip img{
     display: block;
 }
+.ip p{
+    font-family: 'Farro', sans-serif;
+    text-align: center;
+    display: none;
+    position: absolute;
+    font-size: 40px;
+    padding-top: 80px;
+    padding-left: 40px;
+  
+  }

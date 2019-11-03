@@ -1,6 +1,6 @@
 # Delani-Studio-Project
  my third ip
-# DELANI STUDIO Author
+# DELANI STUDIO AUTHOR
 Brian Munene
 ## Description
 > This project will give the user a brief description of Delani Studio and what it does.

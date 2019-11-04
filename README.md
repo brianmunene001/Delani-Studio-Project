@@ -1,7 +1,7 @@
 # Delani-Studio-Project
- my third ip
+ This is my third project.
 # DELANI STUDIO AUTHOR
-Brian Munene
+ Brian Munene
 ## Description
 > This project will give the user a brief description of Delani Studio and what it does.
 
@@ -11,10 +11,7 @@ Brian Munene
 >JavaScript
 
 ## contacts
-> munenebrian384@gmail.com
+. munenebrian384@gmail.com
 
-## Deploy
+## Deploy live link to my project
 https://brianmunene001.github.io/Delani-Studio-Project/
-
-# screenshots
-<img src="Screenshot from 2019-11-03 17-59-22">
